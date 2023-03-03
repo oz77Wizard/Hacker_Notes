@@ -14,7 +14,7 @@ And this is my starting point and how I started to learn how to become a PenTest
 
 This is where the whole Hacker Notes themed started, in IG you can find me with the same name, there, you can find a more aesthetic panorama of what I study, here, I plan to add all my notes and preparation for different certifications.
 
-And If I ever make it, my dos and don'ts on how to land a job as a PenTester. Go to Wiki to learn more. 
+And If I ever make it, my dos and don'ts on how to land a job as a PenTester. Go to Wiki Section of this page to learn more. 
 
 Happy hacking! 
   _   _   _   _   _   _   _   _   _   _   _  
